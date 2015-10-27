@@ -99,6 +99,7 @@ header {
 	display: block;
 	width: 150px;
 	background-color: white;
+	color: black;
 	margin-top: 80px;
 }
 
@@ -175,4 +176,12 @@ header {
 
 .jumbotron{
 	font-family: 'Amatic SC', cursive;
+}
+
+.field {
+	padding-left: 25px;
+}
+
+.actions {
+	padding-left: 25px;
 }
